@@ -1,8 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
+* [🤚 Saganetwork Müşterilerine Özel Wikisine hoşgeldiniz!](README.md)
 
-## Bot Kurulum <a href="#botkurulum" id="botkurulum"></a>
+## 🖥 Panel Kurulum
 
-* [Page 1](botkurulum/page-1.md)
-* [Page 2](botkurulum/page-2.md)
+* [Page 1](panel-kurulum/page-1.md)
