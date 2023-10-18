@@ -3,10 +3,10 @@
 ## 1. Bölüm Dosyaları Aktarma
 
 Filezillayı açıyoruz. Ardından panelimizde "Settings" kısmına geliyoruz.\
-![](<../.gitbook/assets/image (2).png>)\
+![](<../.gitbook/assets/image (2) (1).png>)\
 \
 "Server Adress" ve "Usename" Kısmını Kopyalıyoruz. \
-![](<../.gitbook/assets/image (3).png>)\
+![](<../.gitbook/assets/image (3) (1).png>)\
 \
 Sunucu yazan kısıma web paneldeki server adress kısmını yapıştıralım.\
 ![](<../.gitbook/assets/image (5).png>)\

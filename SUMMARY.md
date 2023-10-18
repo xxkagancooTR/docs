@@ -8,7 +8,9 @@
 
 ## ❌ Hatalar
 
-* [Cannot find module](hatalar/cannot-find-module.md)
+* [Cannot find module index.js](hatalar/cannot-find-module-index.js.md)
+* [Cannot Find Module](hatalar/cannot-find-module.md)
+* [Token Invalid](hatalar/token-invalid.md)
 
 ## 🙂 Ek Bilgiler
 

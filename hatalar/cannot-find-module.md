@@ -1,7 +1,7 @@
-# Cannot find module
+# Cannot Find Module
 
-Öncelikle "Startup" kısmına geliyoruz.\
-![](<../.gitbook/assets/image (17).png>)\
+Hatadaki modül ismine bakıyoruz.\
+![](../.gitbook/assets/image.png)\
 \
-"BOT JS FILE" kısmını main dosyamız olarak ayarlıyoruz.\
-![](<../.gitbook/assets/image (18).png>)
+Modülün ismini kopyalayıp terminal kısmına "**npm i modulismi"** yazıyoruz.\
+![](<../.gitbook/assets/image (1).png>)
