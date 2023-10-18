@@ -4,4 +4,12 @@
 
 ## 🖥 Panel Kurulum
 
-* [Page 1](panel-kurulum/page-1.md)
+* [Altyapı Kurulum](panel-kurulum/altyapi-kurulum.md)
+
+## ❌ Hatalar
+
+* [Cannot find module](hatalar/cannot-find-module.md)
+
+## 🙂 Ek Bilgiler
+
+* [FileZilla Dosya Aktarımı](ek-bilgiler/filezilla-dosya-aktarimi.md)
