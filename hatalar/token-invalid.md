@@ -1,9 +1,9 @@
 # Token Invalid
 
 \
-&#x20;![](<../.gitbook/assets/image (2).png>)\
+&#x20;![](<../.gitbook/assets/image (2) (1).png>)\
 \
 Hatanın olma sebebi tokeninizin yanlış olmasıdır.\
 \
 "File Manager" yerine giriyoruz. Buradan "config.json, token.json, settings.json" (altyapıdan altyapıya farklılık gösterir.) içerisinden token kısmını bulup elimizdeki tokeni yapıştırıyoruz.\
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)

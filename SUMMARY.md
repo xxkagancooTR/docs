@@ -15,3 +15,4 @@
 ## 🙂 Ek Bilgiler
 
 * [FileZilla Dosya Aktarımı](ek-bilgiler/filezilla-dosya-aktarimi.md)
+* [Discord.JS Sürüm Değiştirme](ek-bilgiler/discord.js-sueruem-degistirme.md)

@@ -10,11 +10,11 @@ Panelimize girip "Versions" kısmına basıyoruz.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
-Ardından "discord.js generic" kısmından Install kısmına basıyoruz.<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="original">\
+Ardından "discord.js generic" kısmından Install kısmına basıyoruz.<img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">\
 \
 
 
