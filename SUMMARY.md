@@ -16,3 +16,9 @@
 
 * [FileZilla Dosya Aktarımı](ek-bilgiler/filezilla-dosya-aktarimi.md)
 * [Discord.JS Sürüm Değiştirme](ek-bilgiler/discord.js-sueruem-degistirme.md)
+
+## 💾 Kodlar
+
+* [Yeniden Başlatma Kodu](kodlar/yeniden-baslatma-kodu.md)
+* [Botun Hata Vermesini Engelleme](kodlar/botun-hata-vermesini-engelleme.md)
+* [Durum Değiştirme](kodlar/durum-degistirme.md)
